@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="3" failures="0" skipped="0" tests="3" time="0.945" timestamp="2026-02-03T14:58:09.234734-08:00" hostname="Erikas-MacBook-Pro.local"><testcase classname="tests.test_pipeline.TestPipeline" name="test_province_mapping" time="0.048"><error message="failed on setup with &quot;FileNotFoundError: [Errno 2] No such file or directory: 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'&quot;">config_dir = 'src/hdx/scraper/adpc_gem/config'
+
+    @pytest.fixture(scope="session")
+    def configuration(config_dir):
+        UserAgent.set_global("test")
+&gt;       Configuration._create(
+            hdx_read_only=True,
+            hdx_site="prod",
+            project_config_yaml=join(config_dir, "project_configuration.yaml"),
+        )
+
+../../../../tests/conftest.py:29:
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:566: in _create
+    cls.setup(configuration, **kwargs)
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:527: in setup
+    cls._configuration = Configuration(**kwargs)
+                         ^^^^^^^^^^^^^^^^^^^^^^^
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:157: in __init__
+    project_config_dict = load_yaml(project_config_yaml)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+path = 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'
+encoding = 'utf-8', loaderror_if_empty = True
+
+    def load_yaml(
+        path: Path | str, encoding: str = "utf-8", loaderror_if_empty: bool = True
+    ) -&gt; Any:
+        """Load YAML file into an ordered dictionary.
+
+        Args:
+            path: Path to YAML file
+            encoding: Encoding of file. Defaults to utf-8.
+            loaderror_if_empty: Whether to raise LoadError if file is empty. Default to True.
+
+        Returns:
+            The data from the YAML file
+        """
+&gt;       with open(path, encoding=encoding) as f:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       FileNotFoundError: [Errno 2] No such file or directory: 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'
+
+../../../../.venv/lib/python3.13/site-packages/hdx/utilities/loader.py:75: FileNotFoundError</error></testcase><testcase classname="tests.test_pipeline.TestPipeline" name="test_get_country_data_khm" time="0.001"><error message="failed on setup with &quot;FileNotFoundError: [Errno 2] No such file or directory: 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'&quot;">config_dir = 'src/hdx/scraper/adpc_gem/config'
+
+    @pytest.fixture(scope="session")
+    def configuration(config_dir):
+        UserAgent.set_global("test")
+&gt;       Configuration._create(
+            hdx_read_only=True,
+            hdx_site="prod",
+            project_config_yaml=join(config_dir, "project_configuration.yaml"),
+        )
+
+../../../../tests/conftest.py:29:
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:566: in _create
+    cls.setup(configuration, **kwargs)
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:527: in setup
+    cls._configuration = Configuration(**kwargs)
+                         ^^^^^^^^^^^^^^^^^^^^^^^
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:157: in __init__
+    project_config_dict = load_yaml(project_config_yaml)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+path = 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'
+encoding = 'utf-8', loaderror_if_empty = True
+
+    def load_yaml(
+        path: Path | str, encoding: str = "utf-8", loaderror_if_empty: bool = True
+    ) -&gt; Any:
+        """Load YAML file into an ordered dictionary.
+
+        Args:
+            path: Path to YAML file
+            encoding: Encoding of file. Defaults to utf-8.
+            loaderror_if_empty: Whether to raise LoadError if file is empty. Default to True.
+
+        Returns:
+            The data from the YAML file
+        """
+&gt;       with open(path, encoding=encoding) as f:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       FileNotFoundError: [Errno 2] No such file or directory: 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'
+
+../../../../.venv/lib/python3.13/site-packages/hdx/utilities/loader.py:75: FileNotFoundError</error></testcase><testcase classname="tests.test_pipeline.TestPipeline" name="test_generate_dataset_khm" time="0.001"><error message="failed on setup with &quot;FileNotFoundError: [Errno 2] No such file or directory: 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'&quot;">config_dir = 'src/hdx/scraper/adpc_gem/config'
+
+    @pytest.fixture(scope="session")
+    def configuration(config_dir):
+        UserAgent.set_global("test")
+&gt;       Configuration._create(
+            hdx_read_only=True,
+            hdx_site="prod",
+            project_config_yaml=join(config_dir, "project_configuration.yaml"),
+        )
+
+../../../../tests/conftest.py:29:
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:566: in _create
+    cls.setup(configuration, **kwargs)
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:527: in setup
+    cls._configuration = Configuration(**kwargs)
+                         ^^^^^^^^^^^^^^^^^^^^^^^
+../../../../.venv/lib/python3.13/site-packages/hdx/api/configuration.py:157: in __init__
+    project_config_dict = load_yaml(project_config_yaml)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+path = 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'
+encoding = 'utf-8', loaderror_if_empty = True
+
+    def load_yaml(
+        path: Path | str, encoding: str = "utf-8", loaderror_if_empty: bool = True
+    ) -&gt; Any:
+        """Load YAML file into an ordered dictionary.
+
+        Args:
+            path: Path to YAML file
+            encoding: Encoding of file. Defaults to utf-8.
+            loaderror_if_empty: Whether to raise LoadError if file is empty. Default to True.
+
+        Returns:
+            The data from the YAML file
+        """
+&gt;       with open(path, encoding=encoding) as f:
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       FileNotFoundError: [Errno 2] No such file or directory: 'src/hdx/scraper/adpc_gem/config/project_configuration.yaml'
+
+../../../../.venv/lib/python3.13/site-packages/hdx/utilities/loader.py:75: FileNotFoundError</error></testcase></testsuite></testsuites>

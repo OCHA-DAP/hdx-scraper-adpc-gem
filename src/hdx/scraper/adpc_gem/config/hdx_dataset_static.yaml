@@ -1,0 +1,13 @@
+license_id: cc-by
+methodology: TBD
+caveats:
+dataset_source: Asian Disaster Preparedness Center
+package_creator: HDX Data Systems Team
+private: False
+maintainer: 05127438-567c-48a0-afd6-308a1d1808f6
+owner_org: 372eabc7-d7b8-42a0-af47-52d9849edd02
+data_update_frequency: -2
+notes: |
+  The Gender Equality Monitoring (GEM) platform offers open access to officially published data and periodically updated sex disaggregated data repository. It visualizes gender gaps at subnational level in various sectors such as education, health, employment, access to information, intra-household decision making, political participation, as well as gender inequality index (GII). These are starting points to further explore the causes and more complex dynamics of gender inequality.
+
+  For more information, visit the [ADPC Gender Equality Monitor](https://gem-servir.adpc.net/).

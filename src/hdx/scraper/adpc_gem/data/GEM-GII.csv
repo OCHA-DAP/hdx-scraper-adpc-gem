@@ -1,0 +1,367 @@
+admin_level,year,gii,admin_name,area_id,id
+country,1995,0.367,Vietnam,250,1
+country,1995,0.434,Thailand,228,2
+country,1995,0.658,Cambodia,40,3
+country,2000,0.333,Vietnam,250,4
+country,2000,0.435,Thailand,228,5
+country,2000,0.598,Cambodia,40,6
+country,2000,0.58,Laos,123,7
+country,2005,0.308,Vietnam,250,8
+country,2005,0.386,Thailand,228,9
+country,2005,0.568,Cambodia,40,10
+country,2005,0.544,Laos,123,11
+country,2010,0.308,Vietnam,250,12
+country,2010,0.364,Thailand,228,13
+country,2010,0.533,Myanmar,154,14
+country,2010,0.506,Cambodia,40,15
+country,2010,0.509,Laos,123,16
+country,2011,0.314,Vietnam,250,17
+country,2011,0.357,Thailand,228,18
+country,2011,0.549,Myanmar,154,19
+country,2011,0.502,Cambodia,40,20
+country,2011,0.503,Laos,123,21
+country,2012,0.313,Vietnam,250,22
+country,2012,0.357,Thailand,228,23
+country,2012,0.525,Myanmar,154,24
+country,2012,0.497,Cambodia,40,25
+country,2012,0.496,Laos,123,26
+country,2013,0.315,Vietnam,250,27
+country,2013,0.361,Thailand,228,28
+country,2013,0.524,Myanmar,154,29
+country,2013,0.493,Cambodia,40,30
+country,2013,0.49,Laos,123,31
+country,2014,0.316,Vietnam,250,32
+country,2014,0.423,Thailand,228,33
+country,2014,0.526,Myanmar,154,34
+country,2014,0.488,Cambodia,40,35
+country,2014,0.483,Laos,123,36
+country,2015,0.319,Vietnam,250,37
+country,2015,0.424,Thailand,228,38
+country,2015,0.466,Myanmar,154,39
+country,2015,0.483,Cambodia,40,40
+country,2015,0.478,Laos,123,41
+country,2016,0.308,Vietnam,250,42
+country,2016,0.419,Thailand,228,43
+country,2016,0.481,Myanmar,154,44
+country,2016,0.478,Cambodia,40,45
+country,2016,0.467,Laos,123,46
+country,2017,0.302,Vietnam,250,47
+country,2017,0.432,Thailand,228,48
+country,2017,0.484,Myanmar,154,49
+country,2017,0.475,Cambodia,40,50
+country,2017,0.461,Laos,123,51
+country,2018,0.299,Vietnam,250,52
+country,2018,0.424,Thailand,228,53
+country,2018,0.483,Myanmar,154,54
+country,2018,0.473,Cambodia,40,55
+country,2018,0.46,Laos,123,56
+country,2019,0.296,Vietnam,250,57
+country,2019,0.359,Thailand,228,58
+country,2019,0.478,Myanmar,154,59
+country,2019,0.474,Cambodia,40,60
+country,2019,0.459,Laos,123,61
+province,2015,0.41632895,Amnat Charoen,59,62
+province,2010,0.41174963,Amnat Charoen,59,63
+province,2010,0.47854596,An Giang,142,64
+province,2015,0.4245052,An Giang,142,65
+province,2015,0.40987237,Ang Thong,60,66
+province,2010,0.39559857,Ang Thong,60,67
+province,2015,0.4170502,Attapeu,26,68
+province,2010,0.54664908,Ayeyarwaddy,44,69
+province,2015,0.47747312,Ayeyarwaddy,44,70
+province,2015,0.40987237,Ayutthaya,104,71
+province,2010,0.39559857,Ayutthaya,104,72
+province,2010,0.41454387,Ba Ria-Vung Tau,143,73
+province,2015,0.34499585,Ba Ria-Vung Tau,143,74
+province,2010,0.48476989,Bac Lieu,148,75
+province,2015,0.42604265,Bac Lieu,148,76
+province,2010,0.47360076,Bac Ninh,151,77
+province,2015,0.38122438,Bac Ninh,151,78
+province,2010,0.54664908,Bago,45,79
+province,2015,0.47747312,Bago,45,80
+province,2010,0.3742066,Bangkok,61,81
+province,2015,0.42113734,Bangkok,61,82
+province,2015,0.71273851,Banteay Meanchey,1,83
+province,2010,0.68870135,Banteay Meanchey,1,84
+province,2005,0.65974773,Banteay Meanchey,1,85
+province,2010,0.48010611,Ben Tre,152,86
+province,2015,0.42578762,Ben Tre,152,87
+province,2010,0.41486645,Binh Duong,145,88
+province,2015,0.34776325,Binh Duong,145,89
+province,2010,0.41381885,Binh Phuoc,146,90
+province,2015,0.3467945,Binh Phuoc,146,91
+province,2015,0.40749921,Bokeo,27,92
+province,2015,0.37999763,Bolikhamxay,28,93
+province,2015,0.41632895,Bueng Kan,62,94
+province,2010,0.41174963,Bueng Kan,62,95
+province,2010,0.41174963,Buriram,63,96
+province,2015,0.41632895,Buriram,63,97
+province,2010,0.48094384,Ca Mau,153,98
+province,2015,0.42695015,Ca Mau,153,99
+province,2010,0.48120152,Can Tho,155,100
+province,2015,0.42859014,Can Tho,155,101
+province,2010,0.39559857,Chachoengsao,64,102
+province,2015,0.40987237,Chachoengsao,64,103
+province,2015,0.40987237,Chainat,65,104
+province,2010,0.39559857,Chainat,65,105
+province,2015,0.41632895,Chaiyaphum,66,106
+province,2010,0.41174963,Chaiyaphum,66,107
+province,2015,0.38633576,Champasack,29,108
+province,2010,0.38078391,Chiang Mai,68,109
+province,2015,0.45038758,Chiang Mai,68,110
+province,2015,0.45038758,Chiang Rai,69,111
+province,2010,0.38078391,Chiang Rai,69,112
+province,2010,0.54664908,Chin,46,113
+province,2015,0.47747312,Chin,46,114
+province,2010,0.39559857,Chonburi,70,115
+province,2015,0.40987237,Chonburi,70,116
+province,2015,0.43288081,Chumphon,71,117
+province,2010,0.38403582,Chumphon,71,118
+province,2010,0.48448581,Dac Lac,140,119
+province,2015,0.41787088,Dac Lac,140,120
+province,2015,0.42249706,Dac Nong,139,121
+province,2010,0.48804646,Dac Nong,139,122
+province,2010,0.413043,Dong Nai,137,123
+province,2015,0.34553052,Dong Nai,137,124
+province,2010,0.47811621,Dong Thap,138,125
+province,2015,0.42208828,Dong Thap,138,126
+province,2010,0.48613305,Gia Lai,156,127
+province,2015,0.42114924,Gia Lai,156,128
+province,2010,0.47621145,Ha Nam,159,129
+province,2015,0.38303217,Ha Nam,159,130
+province,2015,0.38621726,Hai Duong,164,131
+province,2010,0.47815561,Hai Duong,164,132
+province,2015,0.38601749,Haiphong,165,133
+province,2010,0.47797085,Haiphong,165,134
+province,2010,0.47737802,Hanoi,158,135
+province,2015,0.38349161,Hanoi,158,136
+province,2010,0.48686555,Hau Giang,166,137
+province,2015,0.42470702,Hau Giang,166,138
+province,2010,0.41879275,Ho Chi Minh,161,139
+province,2015,0.34738569,Ho Chi Minh,161,140
+province,2015,0.39291413,Huaphanh,30,141
+province,2010,0.47260315,Hung Yen,163,142
+province,2015,0.38314047,Hung Yen,163,143
+province,2015,0.47747312,Kachin,47,144
+province,2010,0.54664908,Kachin,47,145
+province,2015,0.41632895,Kalasin,72,146
+province,2010,0.41174963,Kalasin,72,147
+province,2010,0.38078391,Kamphaeng Phet,73,148
+province,2015,0.45038758,Kamphaeng Phet,73,149
+province,2005,0.68069734,Kampong Cham,4,150
+province,2010,0.64953711,Kampong Cham,4,151
+province,2015,0.68357648,Kampong Cham,4,152
+province,2005,0.6826067,Kampong Chhnang,5,153
+province,2010,0.59875196,Kampong Chhnang,5,154
+province,2015,0.62070638,Kampong Chhnang,5,155
+province,2015,0.60709038,Kampong Speu,6,156
+province,2005,0.6725516,Kampong Speu,6,157
+province,2010,0.60272247,Kampong Speu,6,158
+province,2005,0.72224668,Kampong Thom,7,159
+province,2010,0.60824497,Kampong Thom,7,160
+province,2015,0.56217605,Kampong Thom,7,161
+province,2010,0.39559857,Kanchanaburi,74,162
+province,2015,0.40987237,Kanchanaburi,74,163
+province,2005,0.66769901,Kandal,8,164
+province,2010,0.62078395,Kandal,8,165
+province,2015,0.66041723,Kandal,8,166
+province,2010,0.54664908,Kayah,48,167
+province,2015,0.47747312,Kayah,48,168
+province,2010,0.54664908,Kayin,49,169
+province,2015,0.47747312,Kayin,49,170
+province,2015,0.38169735,Khammouan,31,171
+province,2010,0.41174963,Khon Kaen,75,172
+province,2015,0.41632895,Khon Kaen,75,173
+province,2010,0.4823143,Kien Giang,168,174
+province,2015,0.42051723,Kien Giang,168,175
+province,2010,0.48822319,Kon Tum,169,176
+province,2015,0.41815507,Kon Tum,169,177
+province,2010,0.38403582,Krabi,76,178
+province,2015,0.43288081,Krabi,76,179
+province,2010,0.6239656,Kratie,11,180
+province,2015,0.70152475,Kratie,11,181
+province,2005,0.68210539,Kratie,11,182
+province,2010,0.48459973,Lam Dong,171,183
+province,2015,0.42300343,Lam Dong,171,184
+province,2010,0.38078391,Lampang,77,185
+province,2015,0.45038758,Lampang,77,186
+province,2010,0.38078391,Lamphun,78,187
+province,2015,0.45038758,Lamphun,78,188
+province,2010,0.41174963,Loei,79,189
+province,2015,0.41632895,Loei,79,190
+province,2010,0.48096591,Long An,174,191
+province,2015,0.42468029,Long An,174,192
+province,2015,0.37023407,Louangphabang,33,193
+province,2015,0.39190632,Luang Namtha,32,194
+province,2010,0.38078391,Mae Hong Son,81,195
+province,2015,0.45038758,Mae Hong Son,81,196
+province,2010,0.54664908,Magway,50,197
+province,2015,0.47747312,Magway,50,198
+province,2010,0.41174963,Maha Sarakham,82,199
+province,2015,0.41632895,Maha Sarakham,82,200
+province,2010,0.54664908,Mandalay,51,201
+province,2015,0.47747312,Mandalay,51,202
+province,2010,0.54664908,Mon,52,203
+province,2015,0.47747312,Mon,52,204
+province,2010,0.41174963,Mukdahan,83,205
+province,2015,0.41632895,Mukdahan,83,206
+province,2010,0.39559857,Nakhon Pathom,85,207
+province,2015,0.40987237,Nakhon Pathom,85,208
+province,2010,0.41174963,Nakhon Phanom,86,209
+province,2015,0.41632895,Nakhon Phanom,86,210
+province,2010,0.41174963,Nakhon Ratchasima,87,211
+province,2015,0.41632895,Nakhon Ratchasima,87,212
+province,2010,0.38078391,Nakhon Sawan,88,213
+province,2015,0.45038758,Nakhon Sawan,88,214
+province,2010,0.38403582,Nakhon Si Thammarat,89,215
+province,2015,0.43288081,Nakhon Si Thammarat,89,216
+province,2010,0.4744655,Nam Dinh,175,217
+province,2015,0.38523147,Nam Dinh,175,218
+province,2010,0.38078391,Nan,90,219
+province,2015,0.45038758,Nan,90,220
+province,2010,0.38403582,Narathiwat,91,221
+province,2015,0.43288081,Narathiwat,91,222
+province,2010,0.54664908,Naypyidaw,53,223
+province,2015,0.47747312,Naypyidaw,53,224
+province,2010,0.47498568,Ninh Binh,177,225
+province,2015,0.38122215,Ninh Binh,177,226
+province,2010,0.41174963,Nong Bua Lamphu,92,227
+province,2015,0.41632895,Nong Bua Lamphu,92,228
+province,2010,0.41174963,Nong Khai,93,229
+province,2015,0.41632895,Nong Khai,93,230
+province,2010,0.39559857,Nonthaburi,94,231
+province,2015,0.40987237,Nonthaburi,94,232
+province,2005,0.71310866,Oddar,15,233
+province,2010,0.64736028,Oddar,15,234
+province,2015,0.66598049,Oddar,15,235
+province,2015,0.40997861,Oudomxay,34,236
+province,2010,0.39559857,Pathum Thani,95,237
+province,2015,0.40987237,Pathum Thani,95,238
+province,2010,0.38403582,Pattani,96,239
+province,2015,0.43288081,Pattani,96,240
+province,2010,0.38403582,Phang Nga,97,241
+province,2015,0.43288081,Phang Nga,97,242
+province,2010,0.38403582,Phattalung,98,243
+province,2015,0.43288081,Phattalung,98,244
+province,2010,0.38078391,Phayao,99,245
+province,2015,0.45038758,Phayao,99,246
+province,2010,0.38078391,Phetchabun,100,247
+province,2015,0.45038758,Phetchabun,100,248
+province,2010,0.39559857,Phetchaburi,101,249
+province,2015,0.40987237,Phetchaburi,101,250
+province,2010,0.38078391,Phichit,102,251
+province,2015,0.45038758,Phichit,102,252
+province,2010,0.38078391,Phitsanulok,103,253
+province,2015,0.45038758,Phitsanulok,103,254
+province,2005,0.66732249,Phnom Penh,16,255
+province,2010,0.5278385,Phnom Penh,16,256
+province,2015,0.59082437,Phnom Penh,16,257
+province,2015,0.4196767,Phongsaly,35,258
+province,2010,0.38078391,Phrae,105,259
+province,2015,0.45038758,Phrae,105,260
+province,2010,0.38403582,Phuket,106,261
+province,2015,0.43288081,Phuket,106,262
+province,2010,0.39559857,Prachin Buri,107,263
+province,2015,0.40987237,Prachin Buri,107,264
+province,2010,0.39559857,Prachuap Khiri Khan,108,265
+province,2015,0.40987237,Prachuap Khiri Khan,108,266
+province,2005,0.63276349,Prey Veng,19,267
+province,2010,0.60625212,Prey Veng,19,268
+province,2015,0.60631559,Prey Veng,19,269
+province,2005,0.59957413,Pursat,17,270
+province,2010,0.66155418,Pursat,17,271
+province,2015,0.64961839,Pursat,17,272
+province,2010,0.54664908,Rakhine,54,273
+province,2015,0.47747312,Rakhine,54,274
+province,2010,0.38403582,Ranong,109,275
+province,2015,0.43288081,Ranong,109,276
+province,2010,0.39559857,Ratchaburi,110,277
+province,2015,0.40987237,Ratchaburi,110,278
+province,2010,0.39559857,Rayong,111,279
+province,2015,0.40987237,Rayong,111,280
+province,2010,0.41174963,Roi Et,112,281
+province,2015,0.41632895,Roi Et,112,282
+province,2010,0.39559857,Sa Kaeow,113,283
+province,2015,0.40987237,Sa Kaeow,113,284
+province,2010,0.54664908,Sagaing,55,285
+province,2015,0.47747312,Sagaing,55,286
+province,2010,0.41174963,Sakon Nakhon,114,287
+province,2015,0.41632895,Sakon Nakhon,114,288
+province,2010,0.39559857,Samut Prakan,115,289
+province,2015,0.40987237,Samut Prakan,115,290
+province,2010,0.39559857,Samut Sakhon,116,291
+province,2015,0.40987237,Samut Sakhon,116,292
+province,2010,0.39559857,Samut Songkhram,117,293
+province,2015,0.40987237,Samut Songkhram,117,294
+province,2010,0.39559857,Saraburi,118,295
+province,2015,0.40987237,Saraburi,118,296
+province,2015,0.36124632,Saravan,36,297
+province,2010,0.38403582,Satun,119,298
+province,2015,0.43288081,Satun,119,299
+province,2015,0.37191674,Savannakhet,37,300
+province,2015,0.38529407,Sekong,40,301
+province,2010,0.54664908,Shan,56,302
+province,2015,0.47747312,Shan,56,303
+province,2005,0.64096985,Siem Reap,21,304
+province,2010,0.67138246,Siem Reap,21,305
+province,2015,0.63117887,Siem Reap,21,306
+province,2010,0.39559857,Singburi,121,307
+province,2015,0.40987237,Singburi,121,308
+province,2010,0.41174963,Sisaket,120,309
+province,2015,0.41632895,Sisaket,120,310
+province,2010,0.48406318,Soc Trang,186,311
+province,2015,0.42607822,Soc Trang,186,312
+province,2010,0.38403582,Songkhla,122,313
+province,2015,0.43288081,Songkhla,122,314
+province,2010,0.38078391,Sukothai,123,315
+province,2015,0.45038758,Sukothai,123,316
+province,2010,0.39559857,Suphanburi,124,317
+province,2015,0.40987237,Suphanburi,124,318
+province,2010,0.38403582,Surat Thani,125,319
+province,2015,0.43288081,Surat Thani,125,320
+province,2010,0.41174963,Surin,126,321
+province,2015,0.41632895,Surin,126,322
+province,2005,0.5913328,Svay Rieng,23,323
+province,2010,0.68737587,Svay Rieng,23,324
+province,2015,0.66866159,Svay Rieng,23,325
+province,2010,0.38078391,Tak,127,326
+province,2015,0.45038758,Tak,127,327
+province,2005,0.67139136,Takeo,24,328
+province,2010,0.64977118,Takeo,24,329
+province,2015,0.60797719,Takeo,24,330
+province,2010,0.54664908,Tanintharyi,57,331
+province,2015,0.47747312,Tanintharyi,57,332
+province,2010,0.41264633,Tay Ninh,188,333
+province,2015,0.34217567,Tay Ninh,188,334
+province,2010,0.47916272,Thai Binh,189,335
+province,2015,0.38449189,Thai Binh,189,336
+province,2010,0.47491881,Tien Giang,193,337
+province,2015,0.42200284,Tien Giang,193,338
+province,2010,0.48640332,Tra Vinh,194,339
+province,2015,0.42165512,Tra Vinh,194,340
+province,2010,0.38403582,Trang,128,341
+province,2015,0.43288081,Trang,128,342
+province,2010,0.39559857,Trat,129,343
+province,2015,0.40987237,Trat,129,344
+province,2010,0.41174963,Ubon Ratchathani,130,345
+province,2015,0.41632895,Ubon Ratchathani,130,346
+province,2010,0.41174963,Udon Thani,131,347
+province,2015,0.41632895,Udon Thani,131,348
+province,2010,0.38078391,Uthaithani,132,349
+province,2015,0.45038758,Uthaithani,132,350
+province,2010,0.38078391,Uttaradit,133,351
+province,2015,0.45038758,Uttaradit,133,352
+province,2015,0.38609563,Vientiane,39,353
+province,2015,0.32580252,Vientiane [prefecture],38,354
+province,2010,0.47918503,Vinh Long,196,355
+province,2015,0.42266851,Vinh Long,196,356
+province,2010,0.47641819,Vinh Phuc,197,357
+province,2015,0.3857242,Vinh Phuc,197,358
+province,2015,0.40891515,Xaignabouri,41,359
+province,2015,0.42800559,Xiangkhoang,43,360
+province,2010,0.38403582,Yala,134,361
+province,2015,0.43288081,Yala,134,362
+province,2010,0.54664908,Yangon,58,363
+province,2015,0.47747312,Yangon,58,364
+province,2010,0.41174963,Yasothon,135,365
+province,2015,0.41632895,Yasothon,135,366

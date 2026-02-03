@@ -1,0 +1,553 @@
+iso3,country,province,dimension_category,dimension,gender,year,value,unit
+KHM,Cambodia,Batdâmbâng,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Bântéay Méanchey,Empowerment,Empowerment index,female,2015,0.56052589,number
+KHM,Cambodia,Bântéay Méanchey,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,female,2015,0.01790718,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,female,2015,0.01218027,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Kaôh Kong,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kep,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Krong Pailin,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Krong Preah Sihanouk,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Krâchéh,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Krâchéh,Empowerment,Empowerment index,female,2015,0.53517269,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Krâchéh,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Krâchéh,Reproductive health,Reproductive health index,female,2015,0.01910228,number
+KHM,Cambodia,Krâchéh,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Krâchéh,Violence,Violence Index,female,2015,0.01392758,number
+KHM,Cambodia,Kâmpóng Cham,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kâmpóng Cham,Empowerment,Empowerment index,female,2015,0.55927121,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,female,2015,0.0200971,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,female,2015,0.01683502,number
+KHM,Cambodia,Kâmpóng Chhnang,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kâmpóng Chhnang,Empowerment,Empowerment index,female,2015,0.55636388,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,female,2015,0.02898003,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,female,2015,0.02717391,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Kâmpóng Spœ,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kâmpóng Spœ,Empowerment,Empowerment index,female,2015,0.5541953,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,female,2015,0.05143445,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,female,2015,0.01831502,number
+KHM,Cambodia,Kâmpóng Thum,Empowerment,Empowerment index,female,2015,0.5595854,number
+KHM,Cambodia,Kâmpóng Thum,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,female,2015,0.03592338,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,female,2015,0.04366812,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Kâmpôt,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Kândal,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Kândal,Empowerment,Empowerment index,female,2015,0.55598242,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,female,2015,0.02452041,number
+KHM,Cambodia,Kândal,Violence,Violence Index,female,2015,0.01915709,number
+KHM,Cambodia,Kândal,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Môndól Kiri,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Otdar Mean Chey,Empowerment,Empowerment index,female,2015,0.55387495,number
+KHM,Cambodia,Otdar Mean Chey,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Otdar Mean Chey,Reproductive health,Reproductive health index,female,2015,0.02193172,number
+KHM,Cambodia,Otdar Mean Chey,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Otdar Mean Chey,Violence,Violence Index,female,2015,0.01988072,number
+KHM,Cambodia,Otdar Mean Chey,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Phnom Penh,Empowerment,Empowerment index,female,2015,0.53317396,number
+KHM,Cambodia,Phnom Penh,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,female,2015,0.03731447,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,female,2015,0.0310559,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Pouthisat,Empowerment,Empowerment index,female,2015,0.55116931,number
+KHM,Cambodia,Pouthisat,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Pouthisat,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Pouthisat,Reproductive health,Reproductive health index,female,2015,0.03731447,number
+KHM,Cambodia,Pouthisat,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Pouthisat,Violence,Violence Index,female,2015,0.01470588,number
+KHM,Cambodia,Preah Vihéar,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Prey Vêng,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Prey Vêng,Empowerment,Empowerment index,female,2015,0.56021274,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,female,2015,0.02810164,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,female,2015,0.03333333,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Rôtânôkiri,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Siemréab,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Siemréab,Empowerment,Empowerment index,female,2015,0.5450818,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Siemréab,Reproductive health,Reproductive health index,female,2015,0.0332008,number
+KHM,Cambodia,Siemréab,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Siemréab,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Siemréab,Violence,Violence Index,female,2015,0.02105263,number
+KHM,Cambodia,Stœng Trêng,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Svay Rieng,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Svay Rieng,Empowerment,Empowerment index,female,2015,0.54732306,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,female,2015,0.0285307,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,female,2015,0.01485884,number
+KHM,Cambodia,Takêv,Empowerment,Empowerment index,female,2015,0.52157799,number
+KHM,Cambodia,Takêv,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,female,2015,0.04600437,number
+KHM,Cambodia,Takêv,Violence,Violence Index,male,2015,1,number
+KHM,Cambodia,Takêv,Violence,Violence Index,female,2015,0.02087683,number
+KHM,Cambodia,Tbong Khmum,Empowerment,Empowerment index,male,2015,0.81307671,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,male,2015,0.867,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,female,2015,0.7435,number
+KHM,Cambodia,Batdâmbâng,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Bântéay Méanchey,Empowerment,Empowerment index,female,2010,0.54757309,number
+KHM,Cambodia,Bântéay Méanchey,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,female,2010,0.02338582,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,female,2010,0.01310616,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Kaôh Kong,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kep,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Krong Pailin,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Krong Preah Sihanouk,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Krâchéh,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Krâchéh,Empowerment,Empowerment index,female,2010,0.54430938,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Krâchéh,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Krâchéh,Reproductive health,Reproductive health index,female,2010,0.0204765,number
+KHM,Cambodia,Krâchéh,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Krâchéh,Violence,Violence Index,female,2010,0.03610108,number
+KHM,Cambodia,Kâmpóng Cham,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kâmpóng Cham,Empowerment,Empowerment index,female,2010,0.53597408,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,female,2010,0.02373229,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,female,2010,0.02252252,number
+KHM,Cambodia,Kâmpóng Chhnang,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kâmpóng Chhnang,Empowerment,Empowerment index,female,2010,0.55271553,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,female,2010,0.0323762,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,female,2010,0.03076923,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Kâmpóng Spœ,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kâmpóng Spœ,Empowerment,Empowerment index,female,2010,0.55436638,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,female,2010,0.02273608,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,female,2010,0.041841,number
+KHM,Cambodia,Kâmpóng Thum,Empowerment,Empowerment index,female,2010,0.54724847,number
+KHM,Cambodia,Kâmpóng Thum,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,female,2010,0.03885143,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,female,2010,0.02304148,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Kâmpôt,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Kândal,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Kândal,Empowerment,Empowerment index,female,2010,0.55131091,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,female,2010,0.02895815,number
+KHM,Cambodia,Kândal,Violence,Violence Index,female,2010,0.02631579,number
+KHM,Cambodia,Kândal,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Môndól Kiri,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Otdar Mean Chey,Empowerment,Empowerment index,female,2010,0.55461949,number
+KHM,Cambodia,Otdar Mean Chey,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Otdar Mean Chey,Reproductive health,Reproductive health index,female,2010,0.03546635,number
+KHM,Cambodia,Otdar Mean Chey,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Otdar Mean Chey,Violence,Violence Index,female,2010,0.01529052,number
+KHM,Cambodia,Otdar Mean Chey,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Phnom Penh,Empowerment,Empowerment index,female,2010,0.55738854,number
+KHM,Cambodia,Phnom Penh,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,female,2010,0.03546635,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,female,2010,0.0625,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Pouthisat,Empowerment,Empowerment index,female,2010,0.55813898,number
+KHM,Cambodia,Pouthisat,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Pouthisat,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Pouthisat,Reproductive health,Reproductive health index,female,2010,0.02864166,number
+KHM,Cambodia,Pouthisat,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Pouthisat,Violence,Violence Index,female,2010,0.0155521,number
+KHM,Cambodia,Preah Vihéar,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Prey Vêng,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Prey Vêng,Empowerment,Empowerment index,female,2010,0.55214177,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,female,2010,0.02273608,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,female,2010,0.04016064,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Rôtânôkiri,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Siemréab,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Siemréab,Empowerment,Empowerment index,female,2010,0.55632195,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Siemréab,Reproductive health,Reproductive health index,female,2010,0.02572999,number
+KHM,Cambodia,Siemréab,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Siemréab,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Siemréab,Violence,Violence Index,female,2010,0.01512859,number
+KHM,Cambodia,Stœng Trêng,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Svay Rieng,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Svay Rieng,Empowerment,Empowerment index,female,2010,0.47359741,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,female,2010,0.02962394,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,female,2010,0.01150748,number
+KHM,Cambodia,Takêv,Empowerment,Empowerment index,female,2010,0.55366914,number
+KHM,Cambodia,Takêv,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,female,2010,0.03110604,number
+KHM,Cambodia,Takêv,Violence,Violence Index,male,2010,1,number
+KHM,Cambodia,Takêv,Violence,Violence Index,female,2010,0.01686341,number
+KHM,Cambodia,Tbong Khmum,Empowerment,Empowerment index,male,2010,0.8059945,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,male,2010,0.8859,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,female,2010,0.8128,number
+KHM,Cambodia,Batdâmbâng,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Bântéay Méanchey,Empowerment,Empowerment index,female,2005,0.39581997,number
+KHM,Cambodia,Bântéay Méanchey,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,female,2005,0.01903674,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,female,2005,0.03194888,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Kaôh Kong,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kep,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Krong Pailin,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Krong Preah Sihanouk,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Krâchéh,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Krâchéh,Empowerment,Empowerment index,female,2005,0.37437155,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Krâchéh,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Krâchéh,Reproductive health,Reproductive health index,female,2005,0.01796169,number
+KHM,Cambodia,Krâchéh,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Krâchéh,Violence,Violence Index,female,2005,0.02570694,number
+KHM,Cambodia,Kâmpóng Cham,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kâmpóng Cham,Empowerment,Empowerment index,female,2005,0.39593339,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,female,2005,0.02540166,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,female,2005,0.01785714,number
+KHM,Cambodia,Kâmpóng Chhnang,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kâmpóng Chhnang,Empowerment,Empowerment index,female,2005,0.39768308,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,female,2005,0.02300219,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,female,2005,0.01912046,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Kâmpóng Spœ,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kâmpóng Spœ,Empowerment,Empowerment index,female,2005,0.3840733,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,female,2005,0.0208252,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,female,2005,0.02493766,number
+KHM,Cambodia,Kâmpóng Thum,Empowerment,Empowerment index,female,2005,0.38515469,number
+KHM,Cambodia,Kâmpóng Thum,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,female,2005,0.02002083,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,female,2005,0.01230012,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Kâmpôt,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Kândal,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Kândal,Empowerment,Empowerment index,female,2005,0.39813212,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,female,2005,0.0223417,number
+KHM,Cambodia,Kândal,Violence,Violence Index,female,2005,0.02427185,number
+KHM,Cambodia,Kândal,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Môndól Kiri,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Otdar Mean Chey,Empowerment,Empowerment index,female,2005,0.38889256,number
+KHM,Cambodia,Otdar Mean Chey,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Otdar Mean Chey,Reproductive health,Reproductive health index,female,2005,0.01472564,number
+KHM,Cambodia,Otdar Mean Chey,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Otdar Mean Chey,Violence,Violence Index,female,2005,0.01919386,number
+KHM,Cambodia,Otdar Mean Chey,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Phnom Penh,Empowerment,Empowerment index,female,2005,0.40398866,number
+KHM,Cambodia,Phnom Penh,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,female,2005,0.02831373,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,female,2005,0.01908397,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Pouthisat,Empowerment,Empowerment index,female,2005,0.4243951,number
+KHM,Cambodia,Pouthisat,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Pouthisat,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Pouthisat,Reproductive health,Reproductive health index,female,2005,0.02323572,number
+KHM,Cambodia,Pouthisat,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Pouthisat,Violence,Violence Index,female,2005,0.05405405,number
+KHM,Cambodia,Preah Vihéar,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Prey Vêng,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Prey Vêng,Empowerment,Empowerment index,female,2005,0.39399642,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,female,2005,0.03549314,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,female,2005,0.0245098,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Rôtânôkiri,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Siemréab,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Siemréab,Empowerment,Empowerment index,female,2005,0.388775,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Siemréab,Reproductive health,Reproductive health index,female,2005,0.02049198,number
+KHM,Cambodia,Siemréab,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Siemréab,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Siemréab,Violence,Violence Index,female,2005,0.03861004,number
+KHM,Cambodia,Stœng Trêng,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Svay Rieng,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Svay Rieng,Empowerment,Empowerment index,female,2005,0.39111285,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,female,2005,0.02193172,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,female,2005,0.06711409,number
+KHM,Cambodia,Takêv,Empowerment,Empowerment index,female,2005,0.40620902,number
+KHM,Cambodia,Takêv,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,female,2005,0.03020335,number
+KHM,Cambodia,Takêv,Violence,Violence Index,male,2005,1,number
+KHM,Cambodia,Takêv,Violence,Violence Index,female,2005,0.01686341,number
+KHM,Cambodia,Tbong Khmum,Empowerment,Empowerment index,male,2005,0.88374841,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,male,2005,0.8592,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,female,2005,0.755,number
+KHM,Cambodia,Batdâmbâng,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Batdâmbâng,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Bântéay Méanchey,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Bântéay Méanchey,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,female,2000,0.01459147,number
+KHM,Cambodia,Bântéay Méanchey,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,female,2000,0.0729927,number
+KHM,Cambodia,Bântéay Méanchey,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Kaôh Kong,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Kaôh Kong,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kaôh Kong,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Kaôh Kong,Reproductive health,Reproductive health index,female,2000,0.01488333,number
+KHM,Cambodia,Kep,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kep,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Krong Pailin,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Krong Pailin,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Krong Preah Sihanouk,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Krong Preah Sihanouk,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Krâchéh,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Krâchéh,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kâmpóng Cham,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Kâmpóng Cham,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Kâmpóng Cham,Reproductive health,Reproductive health index,female,2000,0.02183427,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Kâmpóng Cham,Violence,Violence Index,female,2000,0.01792115,number
+KHM,Cambodia,Kâmpóng Chhnang,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Kâmpóng Chhnang,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,female,2000,0.02073636,number
+KHM,Cambodia,Kâmpóng Chhnang,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,female,2000,0.01477105,number
+KHM,Cambodia,Kâmpóng Chhnang,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Kâmpóng Spœ,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kâmpóng Spœ,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,female,2000,0.01445183,number
+KHM,Cambodia,Kâmpóng Spœ,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Kâmpóng Spœ,Violence,Violence Index,female,2000,0.01282051,number
+KHM,Cambodia,Kâmpóng Thum,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kâmpóng Thum,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,female,2000,0.0270369,number
+KHM,Cambodia,Kâmpóng Thum,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,female,2000,0.02141328,number
+KHM,Cambodia,Kâmpóng Thum,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Kâmpôt,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kâmpôt,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Kândal,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Kândal,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Kândal,Reproductive health,Reproductive health index,female,2000,0.02312734,number
+KHM,Cambodia,Kândal,Violence,Violence Index,female,2000,0.02840909,number
+KHM,Cambodia,Kândal,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Môndól Kiri,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Môndól Kiri,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Otdar Mean Chey,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Otdar Mean Chey,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Phnom Penh,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Phnom Penh,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Phnom Penh,Reproductive health,Reproductive health index,female,2000,0.03087832,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,female,2000,0.04545455,number
+KHM,Cambodia,Phnom Penh,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Pouthisat,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Pouthisat,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Preah Vihéar,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Preah Vihéar,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Prey Vêng,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Prey Vêng,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Prey Vêng,Reproductive health,Reproductive health index,female,2000,0.01687611,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,female,2000,0.14925373,number
+KHM,Cambodia,Prey Vêng,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Rôtânôkiri,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Rôtânôkiri,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Siemréab,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Siemréab,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Stœng Trêng,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Stœng Trêng,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Svay Rieng,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Svay Rieng,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Svay Rieng,Reproductive health,Reproductive health index,female,2000,0.01896063,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Svay Rieng,Violence,Violence Index,female,2000,0.01569859,number
+KHM,Cambodia,Takêv,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Takêv,Labor Force,Labour force Index,female,2000,0.8188,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Takêv,Reproductive health,Reproductive health index,female,2000,0.0185109,number
+KHM,Cambodia,Takêv,Violence,Violence Index,male,2000,1,number
+KHM,Cambodia,Takêv,Violence,Violence Index,female,2000,0.07936508,number
+KHM,Cambodia,Tbong Khmum,Empowerment,Empowerment index,male,2000,0.90679471,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,male,2000,0.8543,number
+KHM,Cambodia,Tbong Khmum,Labor Force,Labour force Index,female,2000,0.8188,number

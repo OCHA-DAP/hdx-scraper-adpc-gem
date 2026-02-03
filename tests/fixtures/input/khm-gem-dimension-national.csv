@@ -1,0 +1,79 @@
+iso3,country,dimension_category,dimension,gender,year,value,unit
+KHM,Cambodia,Empowerment,Empowerment index,female,2019,0.17038342,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2019,0.47736962,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2019,0.76305,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2019,0.88871,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2018,0.17038342,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2018,0.47634514,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2018,0.76276,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2018,0.88694,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2017,0.1669276,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2017,0.4786197,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2017,0.76413,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2017,0.88716,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2017,0.03553453,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2017,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2016,0.16318946,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2016,0.46672349,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2016,0.76544,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2016,0.88704,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2016,0.03479823,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2016,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2015,0.15829017,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2015,0.45980144,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2015,0.74291,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2015,0.86925,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2015,0.03392414,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2015,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2014,0.15601033,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2014,0.4613433,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2014,0.74823,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2014,0.87033,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2014,0.03304693,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2014,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2013,0.15102729,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2013,0.45429186,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2013,0.75161,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2013,0.86891,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2013,0.03208763,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2013,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2012,0.14587414,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2012,0.44712924,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2012,0.79002,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2012,0.88335,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2012,0.03122212,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2012,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2011,0.14053215,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2011,0.43984999,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2011,0.82443,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2011,0.89633,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2011,0.03017271,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2011,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2010,0.13695142,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2010,0.43100294,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2010,0.81767,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2010,0.89046,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2010,0.02929725,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2010,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2005,0.09460059,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2005,0.42791199,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2005,0.75737,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2005,0.86877,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2005,0.02431515,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2005,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,2000,0.07503159,number
+KHM,Cambodia,Empowerment,Empowerment index,male,2000,0.3835774,number
+KHM,Cambodia,Labor Force,Labour force Index,female,2000,0.76846,number
+KHM,Cambodia,Labor Force,Labour force Index,male,2000,0.81003,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,2000,0.01994528,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,2000,1,number
+KHM,Cambodia,Empowerment,Empowerment index,female,1995,0.05575831,number
+KHM,Cambodia,Empowerment,Empowerment index,male,1995,0.37382326,number
+KHM,Cambodia,Labor Force,Labour force Index,female,1995,0.77203,number
+KHM,Cambodia,Labor Force,Labour force Index,male,1995,0.84561,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,1995,0.01463642,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,1995,1,number
+KHM,Cambodia,Labor Force,Labour force Index,female,1990,0.75958,number
+KHM,Cambodia,Labor Force,Labour force Index,male,1990,0.82441,number
+KHM,Cambodia,Reproductive health,Reproductive health index,female,1990,0.01136319,number
+KHM,Cambodia,Reproductive health,Reproductive health index,male,1990,1,number

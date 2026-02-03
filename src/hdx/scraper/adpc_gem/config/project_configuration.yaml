@@ -1,0 +1,7 @@
+# Collector specific configuration
+
+tags:
+  - education
+  - employment
+  - gender
+  - health
