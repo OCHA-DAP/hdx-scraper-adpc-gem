@@ -1,9 +1,9 @@
-# Collector for Adpc_gem Datasets
-[![Build Status](https://github.com/OCHA-DAP/hdx-scraper-adpc_gem/actions/workflows/run-python-tests.yaml/badge.svg)](https://github.com/OCHA-DAP/hdx-scraper-adpc_gem/actions/workflows/run-python-tests.yaml)
-[![Coverage Status](https://coveralls.io/repos/github/OCHA-DAP/hdx-scraper-adpc_gem/badge.svg?branch=main&ts=1)](https://coveralls.io/github/OCHA-DAP/hdx-scraper-adpc_gem?branch=main)
+# Collector for ADPC GEM Datasets
+[![Build Status](https://github.com/OCHA-DAP/hdx-scraper-adpc-gem/actions/workflows/run-python-tests.yaml/badge.svg)](https://github.com/OCHA-DAP/hdx-scraper-adpc_gem/actions/workflows/run-python-tests.yaml)
+[![Coverage Status](https://coveralls.io/repos/github/OCHA-DAP/hdx-scraper-adpc-gem/badge.svg?branch=main&ts=1)](https://coveralls.io/github/OCHA-DAP/hdx-scraper-adpc-gem?branch=main)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-This script ...
+This script creates HDX datasets from [ADPC Gender Equality Monitor (GEM)](https://gem-servir.adpc.net/) data for countries in Southeast Asia (Cambodia, Laos, Myanmar, Thailand, Vietnam). For each country, it generates a dataset containing 7 CSV resources (Gender Inequality Index at national and subnational levels, GII dimensions and indicators split by admin level, and sex-disaggregated data) plus 2 GeoJSON boundary files (country and province). The source data is static and the files are stored locally in `src/hdx/scraper/adpc_gem/data/`. To process specific countries for testing, pass a list of ISO3 codes to the `countries` parameter (`countries="KHM,THA"`) in `__main__.py`; if empty all countries will be processed.
 
 ## Development
 
