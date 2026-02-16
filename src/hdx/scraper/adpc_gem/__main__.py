@@ -31,7 +31,7 @@ _UPDATED_BY_SCRIPT = "HDX Scraper: ADPC GEM"
 def main(
     save: bool = False,
     use_saved: bool = False,
-    countries: str = "KHM",
+    countries: str = "",
 ) -> None:
     """Generate datasets and create them in HDX
 

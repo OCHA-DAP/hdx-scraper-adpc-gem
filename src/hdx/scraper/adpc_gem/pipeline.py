@@ -56,10 +56,10 @@ class Pipeline:
         return countries
 
     def _build_province_mapping(self) -> dict:
-        """Build mapping from province area_id to country ISO and province name.
+        """Build mapping from province area_id to country ISO and province name
 
         Returns:
-            Dictionary mapping province area_id to dict with iso and name.
+            Dictionary mapping province area_id to dict with iso and name
         """
         province_path = join(self._data_dir, "provinces.json")
         with open(province_path, encoding="utf-8") as f:
@@ -104,13 +104,13 @@ class Pipeline:
             return json.load(f)
 
     def _get_country_area_id(self, country_code: str) -> int | None:
-        """Get the area_id for a country.
+        """Get area_id for a country
 
         Args:
-            country_code: ISO3 code of the country
+            country_code: ISO3 code
 
         Returns:
-            Country area_id or None if not found
+            Country area_id or None
         """
         for country in self._countries:
             if country["iso3"] == country_code:
@@ -118,13 +118,13 @@ class Pipeline:
         return None
 
     def _get_province_area_ids(self, country_code: str) -> set[int]:
-        """Get province area_ids for a country.
+        """Get province area_ids for a country
 
         Args:
-            country_code: ISO3 code of the country
+            country_code: ISO3 code
 
         Returns:
-            Set of province area_ids (excludes country area_id)
+            Set of province area_ids (exclude country area_id)
         """
         area_ids = set()
         for area_id, info in self._province_mapping.items():
@@ -133,14 +133,14 @@ class Pipeline:
         return area_ids
 
     def _filter_csv_by_country(self, rows: list, country_code: str) -> list:
-        """Filter CSV rows for a specific country.
+        """Filter CSV rows for a specific country
 
         Args:
             rows: List of CSV row dictionaries
             country_code: ISO3 code
 
         Returns:
-            Filtered list of rows for the specific country
+            Filtered list of rows for specific country
         """
         country_area_id = self._get_country_area_id(country_code)
         province_area_ids = self._get_province_area_ids(country_code)
@@ -154,7 +154,7 @@ class Pipeline:
                 # National data: match country area_id
                 if admin_level == "country" and area_id == country_area_id:
                     filtered.append(row)
-                # Subnational data: match province area_ids only
+                # Subnational data: match province area_ids
                 elif admin_level == "province" and area_id in province_area_ids:
                     filtered.append(row)
             except (ValueError, TypeError):
@@ -163,14 +163,14 @@ class Pipeline:
         return filtered
 
     def _filter_geojson_by_country(self, geojson: dict, country_code: str) -> dict:
-        """Filter GeoJSON features for a specific country
+        """Filter GeoJSON features for specific country
 
         Args:
             geojson: GeoJSON FeatureCollection
             country_code: ISO3 code
 
         Returns:
-            Filtered GeoJSON with features for a specific country
+            Filtered GeoJSON with features for specific country
         """
         filtered_features = [
             feature
@@ -184,14 +184,14 @@ class Pipeline:
         }
 
     def _transform_gii_national(self, rows: list, country_code: str) -> list:
-        """Transform national GII rows.
+        """Transform national GII rows
 
         Args:
             rows: List of GII row dictionaries
             country_code: ISO3 code
 
         Returns:
-            Transformed list of rows sorted by year descending
+            Transformed list of rows sorted by year in descending order
         """
         transformed = []
         for row in rows:
@@ -209,7 +209,7 @@ class Pipeline:
     def _transform_gii_subnational(
         self, rows: list, country_code: str, country_name: str
     ) -> list:
-        """Transform subnational GII rows.
+        """Transform subnational GII rows
 
         Args:
             rows: List of GII row dictionaries
@@ -241,7 +241,7 @@ class Pipeline:
         )
 
     def _transform_dimension_national(self, rows: list, country_code: str) -> list:
-        """Transform national dimension rows.
+        """Transform national dimension rows
 
         Args:
             rows: List of dimension row dictionaries
@@ -273,7 +273,7 @@ class Pipeline:
     def _transform_dimension_subnational(
         self, rows: list, country_code: str, country_name: str
     ) -> list:
-        """Transform subnational dimension rows.
+        """Transform subnational dimension rows
 
         Args:
             rows: List of dimension row dictionaries
@@ -316,7 +316,7 @@ class Pipeline:
     def _transform_indicator_national(
         self, rows: list, country_code: str, country_name: str
     ) -> list:
-        """Transform national indicator rows.
+        """Transform national indicator rows
 
         Args:
             rows: List of indicator row dictionaries
@@ -349,7 +349,7 @@ class Pipeline:
     def _transform_indicator_subnational(
         self, rows: list, country_code: str, country_name: str
     ) -> list:
-        """Transform subnational indicator rows.
+        """Transform subnational indicator rows
 
         Args:
             rows: List of indicator row dictionaries
@@ -392,7 +392,7 @@ class Pipeline:
     def _transform_sex_disaggregated(
         self, rows: list, country_code: str, country_name: str
     ) -> list:
-        """Transform sex-disaggregated rows (province level only).
+        """Transform sex-disaggregated rows
 
         Args:
             rows: List of sex-disaggregated row dictionaries
@@ -450,18 +450,18 @@ class Pipeline:
         return 2000, 2024  # Default fallback
 
     def get_country_data(self) -> list[dict]:
-        """Get filtered data for each country, split by admin level.
+        """Get filtered data for each country, split by admin level
 
         Returns:
-            List of dictionaries containing country info and filtered data.
+            List of dictionaries containing country info and filtered data
         """
-        # Load all CSV data once
+        # Load CSV data
         gii_data = self._load_csv_data("GEM-GII")
         dimension_data = self._load_csv_data("GEM-GII_dimension")
         indicator_data = self._load_csv_data("GEM-GII_indicator")
         sex_disagg_data = self._load_csv_data("GEM-Sex-disaggregated")
 
-        # Load GeoJSON data once
+        # Load GeoJSON data
         country_geojson = self._load_geojson("country")
         province_geojson = self._load_geojson("provinces")
 
@@ -545,14 +545,7 @@ class Pipeline:
         resource_name: str,
         description: str,
     ) -> None:
-        """Add a CSV resource to the dataset
-
-        Args:
-            dataset: HDX Dataset object
-            rows: List of row dictionaries
-            resource_name: Name for resource file
-            description: Resource description
-        """
+        """Add a CSV resource to the dataset"""
         if not rows:
             logger.warning(f"No data for resource {resource_name}, skipping")
             return
@@ -578,14 +571,7 @@ class Pipeline:
         resource_name: str,
         description: str,
     ) -> None:
-        """Add a GeoJSON resource to the dataset
-
-        Args:
-            dataset: HDX Dataset object
-            geojson: GeoJSON dictionary
-            resource_name: Name for resource file
-            description: Resource description
-        """
+        """Add a GeoJSON resource to the dataset"""
         if not geojson.get("features"):
             logger.warning(f"No features for resource {resource_name}, skipping")
             return
@@ -606,14 +592,7 @@ class Pipeline:
         dataset.add_update_resource(resource)
 
     def generate_dataset(self, country_data: dict) -> Dataset | None:
-        """Create HDX dataset for each country
-
-        Args:
-            country_data: Dictionary from get_country_data()
-
-        Returns:
-            HDX Dataset object or None if creation failed
-        """
+        """Create HDX dataset for each country"""
         country_code = country_data["iso3"]
         country_name = country_data["name"]
         iso_lower = country_code.lower()
