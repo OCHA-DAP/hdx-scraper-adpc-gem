@@ -43,6 +43,7 @@ class TestPipeline:
                     "name": "khm-adpc-gem",
                     "title": "Cambodia - Gender Equality Monitor",
                     "dataset_date": "[1990-01-01T00:00:00 TO 2019-12-31T23:59:59]",
+                    "dataset_preview": "no_preview",
                     "tags": [
                         {
                             "name": "education",

@@ -613,6 +613,7 @@ class Pipeline:
         )
         dataset.add_tags(self._configuration["tags"])
         dataset.set_subnational(True)
+        dataset.preview_off()
 
         try:
             dataset.add_country_location(country_code)
